@@ -75,7 +75,7 @@ h1 {
 
 --fcc-editable-region--
 .one {
-  background-color: red;
+  background-color: rgb(255,0,0);
 }
 --fcc-editable-region--
 
